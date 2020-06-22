@@ -1,2 +1,2 @@
 # google-demo
-Dockerized Vaadin demo for Google Cloud
+Dockerized Vaadin demo for Google Cloud.
